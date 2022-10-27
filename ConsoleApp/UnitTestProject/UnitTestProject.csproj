@@ -1,0 +1,5 @@
+﻿  <ItemGroup>
+    <ProjectReference Include="..\ConsoleApp\ConsoleApp.csproj" />
+  </ItemGroup>
+
+ 
